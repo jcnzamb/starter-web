@@ -5,6 +5,8 @@
 
 ## Deployment
 
+## User Acceptance Testing (UAT)
+
 ## Purpose
 
 ## How To Contribute
